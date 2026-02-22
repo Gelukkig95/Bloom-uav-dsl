@@ -1,0 +1,4 @@
+﻿fn main() -> i32 {
+  tile_stats_demo()
+  return 0
+}

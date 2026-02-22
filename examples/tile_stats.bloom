@@ -1,0 +1,6 @@
+﻿width = 160
+height = 120
+tile = 16
+seed = 123
+var_threshold = 200
+brightness_threshold = 180
