@@ -1,0 +1,15 @@
+﻿# build artifacts
+out.exe
+out.cpp
+out.json
+build.log
+_tmp/
+out.s
+preprocessed.i
+
+# python
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
