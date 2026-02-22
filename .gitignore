@@ -3,9 +3,10 @@ out.exe
 out.cpp
 out.json
 build.log
-_tmp/
+cmd_build.txt
 out.s
 preprocessed.i
+_tmp/
 
 # python
 __pycache__/
