@@ -1,3 +1,8 @@
+MIT license just use it or fix it if you want.
+
+I am a code moneky, so I maybe already make some mistakes.
+
+
 # Bloom DSL (v0.2)
 
 Ultra-light DSL for **on-drone tile statistics & anomaly detection** (GeoAI).  
@@ -70,4 +75,5 @@ RGB/multi-band frames → color_threshold
 Real input frames (file/camera integration)
 Proper grammar with Lark (params {} / pipeline {})
 Onboard-friendly output formats (binary / tiled heatmap)
+
 
